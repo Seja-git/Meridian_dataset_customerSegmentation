@@ -1,0 +1,10 @@
+Metric,Value
+Total customers,12000
+Customers with orders,10965
+Customers without orders,1035
+Transaction lines,575516
+Unique orders,158115
+Unique products,391
+Unique stores,28
+Transaction start,2024-08-01 06:15:00
+Transaction end,2026-07-31 23:58:00

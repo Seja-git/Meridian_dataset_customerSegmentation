@@ -1,0 +1,3 @@
+Algorithm,Clusters,Silhouette
+K-Means,5,0.09712049467690644
+Gaussian Mixture,5,0.01689352644634129
