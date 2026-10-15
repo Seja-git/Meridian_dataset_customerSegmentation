@@ -36,9 +36,11 @@ meridian_customer_analytics/
 │   └── processed/
 │
 ├── notebooks/
-│   ├── 01_data_understanding_preprocessing.ipynb
+│   ├── 01_data_exploration.ipynb
 │   ├── 02_customer_segmentation.ipynb
-│   └── 03_churn_and_recommendation_analysis.ipynb
+│   └── 03_churn_prediction.ipynb
+    └── 04_marketbasket_analysis.ipynb
+│   └── 05_busness_valdation.ipynb
 │
 ├── outputs/
 │   ├── figures/
